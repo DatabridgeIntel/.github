@@ -12,6 +12,12 @@ traceable decision support inside clear governance and accountability boundaries
 - **Decision-support workflows** — AI that fits existing enterprise processes and
   accountability lines, not around them.
 
+## Projects
+
+- **Aquara Lab** — a governed AI research engine for traceable, auditable analysis.
+- **Data Bridge Consulting** — decision-support workflows connecting data, AI and
+  organisational accountability.
+
 ## Get in touch
 
 - Website — [databridgeconsulting.io](https://databridgeconsulting.io)
